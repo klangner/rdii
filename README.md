@@ -10,6 +10,9 @@ $ python -m unittest
 
 ## Features
 
+  * [x] Find rain periods
+  
+
 ## Example usage
 
 ## Join in!
