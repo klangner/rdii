@@ -2,6 +2,19 @@
 
 ## Installation
 
+Usin pip:
+```bash
+$ pip install rdii
+```
+
+Installing the latest version from Github:
+
+```bash
+$ git clone https://github.com/klangner/rdii
+$ cd rdii
+$ python setup.py install
+```
+
 Running tests
 
 ```bash
@@ -14,6 +27,9 @@ $ python -m unittest
   
 
 ## Example usage
+
+Check **notebooks** folder for examples.
+
 
 ## Join in!
 
