@@ -1,5 +1,7 @@
 # RDII (Rainfall-Derived Infiltration and Inflow) library
 
+[![Build Status](https://travis-ci.com/klangner/rdii.svg?branch=master)](https://travis-ci.com/klangner/rdii)
+
 ## Installation
 
 Usin pip:
